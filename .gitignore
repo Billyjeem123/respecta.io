@@ -13,3 +13,5 @@ v0.1/assets/models/users.php
 .gitignore
 
 .htaccess
+
+v0.1/assets/models/mailer.php
