@@ -29,7 +29,7 @@ class Mailer {
     
     $mail->Username = 'no-reply@fulazo.io';
     
-    $mail->Password = 'MO=p{6p2Nv*(';
+    $mail->Password = 'xxxxxxxx';
     
     $mail->SMTPSecure = 'ssl';
     
